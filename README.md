@@ -34,10 +34,13 @@ The dataset includes images of plant leaves — both healthy and affected by var
 - Pre-augmented and resized to 128x128 RGB  
 - One-hot encoded labels for multi-class classification
 - Note: Make sure to download the dataset from Kaggle and place it in the **data/** directory.
-[Link for CNN trained model](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras)
+
 ---
 
 ## 📊 Results
 
 The CNN model achieved strong performance on the validation set, with most misclassifications occurring between visually similar diseases. The results suggest good potential for field use, especially if wrapped in a mobile app for farmers.
 
+---
+
+You can download trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras)
