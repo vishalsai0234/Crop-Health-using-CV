@@ -47,7 +47,7 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 1. "data" folder containing sample test images
 
-2. "model" folder contains file history of model training & you can download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
+2. "model" folder contains file history of model training & download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
 
 3. "notebooks" folder containing jupyter notebooks
 
