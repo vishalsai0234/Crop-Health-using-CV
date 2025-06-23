@@ -45,21 +45,19 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 ## Directory Structure:
 
-1. "Crop_Health_using_CV_Report.pdf" report for this project
+1. "data" folder containing sample test images
 
-2. "home_page.jpeg" image file (used in streamlit)
+2. "model" folder contains file history of model training & you can download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
 
-3. "web_app.py" python file (used for prediction of leaf images on web interface via streamlit)
+3. "notebooks" folder containing jupyter notebooks
 
-4. "1_Dataset_Setup.ipynb" google collab notebook
+4. "src" folder contains image file & python file (used for prediction of leaf images on web interface via streamlit)
 
-5. "2_Model_Building_&_Training.ipynb" google collab notebook
+5. "Crop_Health_using_CV_Report.pdf" report for this project
 
-6. "3_Inference_&_Visualization.ipynb" google collab notebook
+6. "README.md" file
 
 7. "requirements.txt" python libraries with version required for this project
-
-8. "training_hist.json" history of model training
 
 ---
 
@@ -70,7 +68,6 @@ The CNN model achieved strong performance on the validation set, with most miscl
 2. After running "2_Model_Building_&_Training.ipynb" file successfully, a new file called "trained_model.keras" is created in the folder.
 
 3. Now, use this "trained_model.keras" file in further notebook & python file
-   (You can download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
 
 4. Then open a terminal from the folder which contains this files
 
