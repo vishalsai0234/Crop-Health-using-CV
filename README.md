@@ -60,6 +60,14 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 7. requirements.txt — Specifies the required Python libraries and their versions.
 
+├── data/                          # Sample test images  
+├── model/                         # Training history + downloadable trained model  
+├── notebooks/                     # Jupyter notebooks for experimentation and analysis  
+├── src/                           # Image and prediction script for web interface  
+├── Crop_Health_using_CV_Report.pdf  # Project report  
+├── README.md                      # Project overview and usage  
+└── requirements.txt              # Dependencies and library versions
+
 
 ---
 
