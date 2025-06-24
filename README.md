@@ -45,19 +45,21 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 ## Directory Structure:
 
-1. "data" folder containing sample test images
+1. data/ — Contains sample test images.
 
-2. "model" folder contains the training history file. You can download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
+2. model/ — Includes the training history file. The trained model can be downloaded from
+[here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras).
 
-3. "notebooks" folder containing jupyter notebooks
+3. notebooks/ — Contains Jupyter notebooks.
 
-4. "src" folder contains image file & python file (used for prediction of leaf images on web interface via streamlit)
+4. src/ — Includes an image file and a Python script used for leaf image prediction via a Streamlit web interface.
 
-5. "Crop_Health_using_CV_Report.pdf" report for this project
+5. Crop_Health_using_CV_Report.pdf — Project report.
 
-6. "README.md" file
+6. README.md — Project overview and instructions.
 
-7. "requirements.txt" python libraries with version required for this project
+7. requirements.txt — Specifies the required Python libraries and their versions.
+
 
 ---
 
