@@ -47,7 +47,7 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 1. "data" folder containing sample test images
 
-2. "model" folder contains file history of model training & download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
+2. "model" folder contains the training history file. You can download the trained model from [here](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras))
 
 3. "notebooks" folder containing jupyter notebooks
 
@@ -74,10 +74,12 @@ The CNN model achieved strong performance on the validation set, with most miscl
 5. Type "streamlit run main.py" & run it in terminal to predict the type of leaf image with disease
 
 6. If you getting error then proceed with using following commands in terminal (to create new environment):
-  - conda create -n tf_env python=3.10
-  - conda activate tf_env
-  - conda install tensorflow pandas numpy matplotlib scikit-learn
-  - streamlit run main.py
+```bash
+conda create -n tf_env python=3.10
+conda activate tf_env
+conda install tensorflow pandas numpy matplotlib scikit-learn
+streamlit run main.py
+```
 
 Now, terminal automatically open web browser for streaming.
 
