@@ -45,11 +45,17 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 ## 📂 Directory Structur:
 ├── data/                            # Sample test images  
+
 ├── model/                           # Training history + [downloadable trained model](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras)
+
 ├── notebooks/                       # Jupyter notebooks for experimentation and analysis  
+
 ├── src/                             # Image and prediction script for web interface  
+
 ├── Crop_Health_using_CV_Report.pdf  # Project report  
+
 ├── README.md                        # Project overview and usage  
+
 └── requirements.txt                 # Dependencies and library versions
 
 ---
