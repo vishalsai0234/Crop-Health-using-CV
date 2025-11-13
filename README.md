@@ -43,7 +43,7 @@ The CNN model achieved strong performance on the validation set, with most miscl
 
 ---
 
-## 📂 Directory Structur:
+## 📂 Directory Structure:
 ├── data/                            # Sample test images  
 
 ├── model/                           # Training history + [downloadable trained model](https://huggingface.co/vishalsai0234/trained_model.keras/blob/main/trained_model.keras)
